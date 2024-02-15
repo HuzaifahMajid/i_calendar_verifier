@@ -1,0 +1,22 @@
+{
+  "name": "hw3",
+  "version": "1.0.0",
+  "description": "iCallendar ",
+  "main": "hw3.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuzaifahMajid/i_calendar_verifier.git"
+  },
+  "keywords": [
+    "verification"
+  ],
+  "author": "zazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuzaifahMajid/i_calendar_verifier/issues"
+  },
+  "homepage": "https://github.com/HuzaifahMajid/i_calendar_verifier#readme"
+}
