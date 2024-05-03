@@ -4,7 +4,7 @@
   "description": "iCallendar ",
   "main": "hw3.js",
   "scripts": {
-    "test": "test"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
