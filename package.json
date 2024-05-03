@@ -1,7 +1,7 @@
 {
   "name": "hw3",
   "version": "1.0.0",
-  "description": "iCallendar ",
+  "description": "iCalendar verifier",
   "main": "hw3.js",
   "scripts": {
     "test": "jasmine"
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/HuzaifahMajid/i_calendar_verifier/issues"
   },
-  "homepage": "https://github.com/HuzaifahMajid/i_calendar_verifier#readme"
+  "homepage": "https://github.com/HuzaifahMajid/i_calendar_verifier#readme",
+  "devDependencies": {
+    "jasmine": "^4.0.0"
+  }
 }
